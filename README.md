@@ -1,5 +1,35 @@
 # Joseph Naves
 
+## Skills
+
+### Programming
+CSS, HTML, JavaScript, React.js, Redux, Node.js, Express, AWS, SASS, and MySQL
+
+### Tech
+Interactive Gaming Machine Programming and Maintenance, Custom Software Support, Custom Computer
+Builds, Microsoft Office Suite, Computer Repair, Electrical, Network and Server Support, LAN, Wide Area Networks,
+Cables Systems, IT Support 
+
+## Projects
+
+### Didya
+http://didya.herokuapp.com/
+Developed unique task management app using React, Bootstrap, MySQL, Node.js, Redux and Express
+Designed UX/UI following design documents along with timeline and milestone specifics 
+
+### White Bear
+http://white-bear-app.herokuapp.com
+Created flashcard application to aid in memorization 
+
+## Education & Certifications
+
+### Punchcode
+Computer Programming
+CSS, HTML, JavaScript, react.js, redux, node.js, express, and mySQL. 
+
+### University of Nevada-Las Vegas
+Bachelor's degree Computer Science Expected Graduation 2022
+
 ## Experience
 
 ### Spaz Creative
@@ -27,8 +57,4 @@ Troubleshoot and repaired slot machines, cash validators, and communication syst
 Directed and supervised slot routes throughout Nevada 
 Paid out jackpots/markers for merchants
 
-## Education
 
-### Punchcode
-Computer Programming
-CSS, HTML, JavaScript, react.js, redux, node.js, express,, and SQL. 
